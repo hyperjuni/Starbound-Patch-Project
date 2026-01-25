@@ -24,7 +24,7 @@ Remove non-existent `avianweaponblueprints`
     },
     {
         "op": "add",
-        "path": "/tiles/378/brush/0/1/parameters/scriptConfig/merchant/categories/default/-",
+        "path": "/tiles/377/brush/0/1/parameters/scriptConfig/merchant/categories/default/-",
         "value": "randomguns"
     }],
 
